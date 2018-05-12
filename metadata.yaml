@@ -15,6 +15,8 @@ creator:
 description: A description of the Battle of Bull Run and other battles in Kentucky,
   Tennessee, and on the Mississippi. Closes with the naval fight at Memphis, June
   1862.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28571#My-Days-and-Nights-on-the-Battle-Field
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2009-04-21'
 gutenberg_type: Text
